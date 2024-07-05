@@ -2,7 +2,7 @@
 
 ## Presentation
 
-Check out our detailed presentation and demo of the Drone Airbag System [here](https://docs.google.com/presentation/d/14eaQb9oTpxorFrxDYrspgPLbbamYA3IDaEej-E1FhYQ/edit?usp=sharing).
+Check out our detailed presentation and demo of the Drone Airbag System, submitted for the Anveshan 3.0 hackathon, [here](https://docs.google.com/presentation/d/14eaQb9oTpxorFrxDYrspgPLbbamYA3IDaEej-E1FhYQ/edit?usp=sharing).
 
 ## Overview
 
